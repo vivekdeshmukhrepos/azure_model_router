@@ -1,4 +1,4 @@
-# README - Azure AI Foundry Model Router POC
+# Azure AI Foundry Model Router POC
 
 ## Overview  
 This project demonstrates how to interact with **Azure AI Foundry's Model Router** using the OpenAI SDK. It initializes an Azure OpenAI client, configures a deployment, and sends a prompt for text generation.
